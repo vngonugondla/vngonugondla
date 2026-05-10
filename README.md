@@ -7,5 +7,3 @@
   - ms cs (ml), '25–'26  
 
 - prev swe intern @ google + amazon
-
-- 📫 linkedin.com/in/veena-gonugondla
